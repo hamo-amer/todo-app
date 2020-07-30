@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+.todolist {
+ text-align: center;
+ display:flex;
+ flex-direction:column;
+ align-items: center;
+}
+.items {
+  text-align: center;
+}
+
+
+

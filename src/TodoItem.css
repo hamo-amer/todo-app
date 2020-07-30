@@ -1,0 +1,12 @@
+.row-r {
+    display:flex;
+    flex-direction: row;
+justify-content: space-between;
+background-color: darkkhaki;
+width : 200px;
+height : 40px;
+}
+.buttoncolor button {
+    height : 40px;
+    background-color: rgba(0, 0, 139, 0.774);
+}
